@@ -38,3 +38,7 @@ Efficiency and reliability can depend on various factors such as application req
 
  **Applications**
  Five-stage current-starved VCOs are widely used in frequency synthesizers, where precise control of the output frequency is essential. They are also employed in phase-locked loops (PLLs) and frequency modulation (FM) circuits in communication systems.
+
+
+
+![image](https://github.com/user-attachments/assets/9f1f717b-3103-4324-860a-23a4fedefd68)
